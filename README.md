@@ -78,8 +78,8 @@ matlab-audio-signal-processing/
 │       ├── filtered_BW_100.wav
 │       └── filtered_BW_200.wav
 └── docs/
-    ├── Project_Report.pdf
-    └── Project_Description.pdf
+    ├── ECE251 Project_Report.pdf
+    └── ECE251 Project_Description.pdf
 ```
 
 ## How to Run
